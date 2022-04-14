@@ -157,10 +157,10 @@
                     </li>
 
                     <li>
-                        <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i> Companies <span class="fa arrow"></span></a>
+                        <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i> Task <span class="fa arrow"></span></a>
                         <ul class="nav nav-second-level">
                             <li>
-                                <a href="{{url('task')}}">List Of Companies</a>
+                                <a href="{{url('task')}}">List Of Task</a>
                             </li>
                             <!--     <li>
                                      <a href="morris.html">Morris.js Charts</a>

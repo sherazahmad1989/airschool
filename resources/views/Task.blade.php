@@ -28,8 +28,8 @@
                                     <thead>
                                         <tr>
                                             <th>task</th>
-                                            <th>Deadline</th>
-                                            <th>Current time</th>
+                                            <th>TimeZone in Which created</th>
+                                            <th>TimeZone in which user logedin</th>
                                         </tr>
                                     </thead>
                                     <tbody>
